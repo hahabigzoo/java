@@ -1,0 +1,29 @@
+HTTP：
+Java EE 
+web project
+
+html语法：
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+  <input type="text">//输入窗口
+  </body>
+</html>
+
+编码：
+ASCII US
+ISO8859-1 EU
+gbk、abk、ab8030  CN
+unicode java
+表单：
+<form action="" method="get/post"><form> //将表单内容上传
+action：表单提交的对象
+method:
+get:用浏览器地址栏以明文的方式上传
+缺点：只能传文本，不安全，大小有限
+post：已隐藏方式传递，可以上传各种附件，不受浏览器地址栏限制
+
+servlet
+建立servlet
