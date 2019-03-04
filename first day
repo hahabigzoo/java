@@ -1,5 +1,4 @@
-# HTTP
-Java EE 
+Java EE基础： 
 web project
 
 html语法：
@@ -27,3 +26,15 @@ post：已隐藏方式传递，可以上传各种附件，不受浏览器地址�
 
 servlet
 建立servlet
+
+获取get方法 ：
+doGet（）：
+
+获取post方法 ：
+doPost（）：
+
+web服务器：Tomcat
+发布到Tomcat
+本地端口：
+localhost:8080/工程名/文件名
+
